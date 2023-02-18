@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.idea/
+*.pyc
+*.log
+*.gz
+*.bin
+*.zip
+__pycache__/
+.pytest_cache/
+*.egg-info/
+logs/
+venv/*
+env/*
+out/*
+dist/
+build/
