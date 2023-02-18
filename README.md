@@ -4,11 +4,10 @@
 The XML Mapping Tool is a Python package that helps you create mappings between two XML files with different XSD schemas.
 
 ## Installation
-To install the XML Mapping Tool, clone the repository and install the required dependencies with pip:
 
-Install lxml
+Install dependence lxml
 ```bash
-    pip install -r lxml 
+    pip install  lxml 
 ```
 
 
